@@ -11,4 +11,6 @@ DATA SCHEMA
 <br/>
 ERD DIAGRAM
 <br/>
-![RELATIONSHIPS](https://github.com/Nalito/DE-hackathon/assets/71222572/87bfb623-2493-4ace-820e-c7083ea18fc2)
+
+![RELATIONSHIPS](https://github.com/Nalito/DE-hackathon/assets/71222572/b15dfbe3-a294-43b1-9c82-193baba5c6a4)
+
