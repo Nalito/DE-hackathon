@@ -1,0 +1,110 @@
+Crop Data Table (CropDataRaw)
+
+1. Timestamp
+   - Data Type: TIMESTAMP
+   - Unit of Measurement: None
+
+2. Crop_Type
+   - Data Type: VARCHAR(20)
+   - Unit of Measurement: None
+
+3. Crop_Yield
+   - Data Type: DECIMAL(8, 2)
+   - Unit of Measurement: Bushels per Acre (bu/ac)
+
+Irrigation Data Table (IrrigationDataRaw)
+
+1. Timestamp
+   - Data Type: TIMESTAMP
+   - Unit of Measurement: None
+
+2. Irrigation_Method
+   - Data Type: VARCHAR(20)
+   - Unit of Measurement: None
+
+3. Water_Source
+   - Data Type: VARCHAR(20)
+   - Unit of Measurement: None
+     
+
+Location Data Table (LocationDataRaw)
+
+1. Location_Name
+   - Data Type: VARCHAR(30)
+   - Unit of Measurement: None
+
+2. Latitude
+   - Data Type: DECIMAL(8, 6)
+   - Unit of Measurement: Degrees Latitude (°)
+
+3. Longitude
+   - Data Type: DECIMAL(9, 6)
+   - Unit of Measurement: Degrees Longitude (°)
+
+4. Elevation
+   - Data Type: DECIMAL(8, 2)
+   - Unit of Measurement: Meters (m)
+
+5. Region
+   - Data Type: VARCHAR(20)
+   - Unit of Measurement: None
+     
+
+Pest Data Table (PestDataRaw)
+
+1. Timestamp
+   - Data Type: TIMESTAMP
+   - Unit of Measurement: None
+
+2. Pest_Type
+   - Data Type: VARCHAR(20)
+   - Unit of Measurement: None
+
+3. Pest_Description
+   - Data Type: TEXT
+   - Unit of Measurement: None
+     
+
+Sensor Data Table (SensorDataRaw)
+
+1. Sensor_ID
+   - Data Type: VARCHAR(10)
+   - Unit of Measurement: None
+
+2. Timestamp
+   - Data Type: TIMESTAMP
+   - Unit of Measurement: None
+
+3. Temperature_F
+   - Data Type: DECIMAL(5, 2)
+   - Unit of Measurement: Fahrenheit (°F)
+     
+
+Soil Data Table (SoilDataRaw)
+
+1. Timestamp
+   - Data Type: TIMESTAMP
+   - Unit of Measurement: None
+
+2. Soil_Moisture_Percent
+   - Data Type: DECIMAL(5, 2)
+   - Unit of Measurement: Percentage (%)
+
+3. Soil_PH
+   - Data Type: DECIMAL(4, 2)
+   - Unit of Measurement: None
+
+     
+Weather Data Table (WeatherDataRaw)
+
+1. Timestamp
+   - Data Type: TIMESTAMP
+   - Unit of Measurement: None
+
+2. Precipitation_Inches
+   - Data Type: DECIMAL(5, 2)
+   - Unit of Measurement: Inches (in)
+
+3. Wind_Speed_MPH
+   - Data Type: DECIMAL(5, 2)
+   - Unit of Measurement: Miles per Hour (mph)
