@@ -1,4 +1,4 @@
-![SCHEMA](https://github.com/Nalito/DE-hackathon/assets/71222572/9222ce86-61b2-41b5-a833-1c876ce863b2)# DE-hackathon
+# DE-hackathon
 
 The dataset was extracted and processed using Snowflake's SQL sheet which can be found in this worksheet: https://app.snowflake.com/bjytklb/cj69053/#/my-sql-queries-fLbqawJZQ
 
